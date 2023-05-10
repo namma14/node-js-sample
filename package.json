@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "scripts": {
+    "test": "node index.js"
+  },
   "dependencies": {
     "express": "^4.13.3"
   },
